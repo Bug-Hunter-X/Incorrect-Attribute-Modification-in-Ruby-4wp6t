@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ruby: attempting to modify an object's attribute using the getter method. The `bug.rb` file contains the erroneous code that raises a `NoMethodError`. The solution (`bugSolution.rb`) shows the correct approach using a setter method or instance variable assignment.
